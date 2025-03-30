@@ -1,4 +1,4 @@
-### This is a simple contact page for Kinetic.
+### This is a simple contact page.
 
 This project is built with HTML,CSS and vanilla Javascript and it is using vite to run it.
 
